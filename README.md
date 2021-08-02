@@ -1,8 +1,18 @@
 ### Hi there 👋
 ```apex
 public class Presentation {
-  Public static final String name = 'Russell Pérez';
+  public static final String name = 'Russell Pérez';
   public static final birthday = date.parse('02/24/1993');
+  public List<String> tools = new List<String> {
+    Apex,
+    Visualforce,
+    Aura Component,
+    Lightning Web Component,
+    Ant Migration Tool,
+    Git,
+    SonarQube,
+    Jitterbit
+  };
 }
 ```
 
