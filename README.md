@@ -19,7 +19,7 @@ public class Presentation {
 }
 ```
 ![]() - [LinkedIn](https://www.linkedin.com/in/russell-alexis-p%C3%A9rez-piza%C3%B1a-9a8374128/)
-![](https://www.dropbox.com/s/biifqxdc2z1qgz8/astro.svg?dl=0 = 25x25) - [Trailblazer](https://trailblazer.me/id/aprez14)
+![test image size](/img/post-bg-2015.jpg){:height="700px" width="400px"} - [Trailblazer](https://trailblazer.me/id/aprez14)
 <!--
 **Kaatelars/Kaatelars** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
