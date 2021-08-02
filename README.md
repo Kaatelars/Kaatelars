@@ -2,20 +2,24 @@
 ```apex
 public class Presentation {
   public static final String name = 'Russell Pérez';
-  public static final birthday = date.parse('02/24/1993');
+  public static final Date birthday = date.parse('02/24/1993');
   public List<String> tools = new List<String> {
-    Apex,
-    Visualforce,
-    Aura Component,
-    Lightning Web Component,
-    Ant Migration Tool,
-    Git,
-    SonarQube,
-    Jitterbit
+    'Apex',
+    'Visualforce',
+    'Aura Component',
+    'Lightning Web Component',
+    'Ant Migration Tool',
+    'Git',
+    'SonarQube',
+    'Jitterbit',
+    'JavaScript',
+    'C# .Net',
+    'PlantUML'
   };
 }
 ```
-
+[LinkedIn](https://www.linkedin.com/in/russell-alexis-p%C3%A9rez-piza%C3%B1a-9a8374128/)
+[Trailblazer](https://trailblazer.me/id/aprez14)
 <!--
 **Kaatelars/Kaatelars** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
